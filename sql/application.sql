@@ -5,5 +5,4 @@ CREATE TABLE COUNTRY(
     POPULATION NUMERIC,
     CRTE_TS TIMESTAMPtz NULL  default current_timestamp
 )
-
 select * from COUNTRY
